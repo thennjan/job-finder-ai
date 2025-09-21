@@ -1,0 +1,5 @@
+{
+  "name": "Job Finder AI",
+  "description": "An AI-powered job aggregator that finds and displays relevant job listings from across the web based on your search query. View details and get direct links to apply.",
+  "requestFramePermissions": []
+}
